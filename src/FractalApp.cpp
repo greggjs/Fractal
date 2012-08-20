@@ -12,21 +12,51 @@ public:
 	float size_;
 	int direction_; //0 is up, 1 right, 2 down, 3 left;
 	int flipped_; //0 is right-side-up, 1 is up-side-down
+	int drawcount_;
+	int deleted_; //0 if live, 1 if ready to die.
 	
 	void draw();
 	
 	square();
 };
 
-void square::draw(){
+Color blue(0.0,0.45,.9);
+Color green(0.0,.9,0.45);
+
+void square::draw(){	
 	if(flipped_ == 0){
-		gl::color(Color(0.0,0.55,0.75));
+		gl::color(blue);
 	} else {
-		gl::color(Color(0.0,0.75,0.55));
+		gl::color(green);
 	}
 	float ulx = center_x_-(size_/2);
 	float uly = center_y_-(size_/2);
 	gl::drawSolidRect(Rectf(ulx,uly,ulx+size_,uly+size_));
+	
+	if(flipped_ == 1){
+		gl::color(blue);
+	} else {
+		gl::color(green);
+	}
+	gl::drawSolidRect(Rectf(ulx+1,uly+1,ulx+size_-1,uly+size_-1));
+	
+	if(flipped_ == 0){
+		gl::color(blue);
+	} else {
+		gl::color(green);
+	}
+	float ulcx;
+	float ulcy;
+	float lrcx;
+	float lrcy;
+	gl::drawSolidRect(Rectf(ulx,uly,ulx+(size_/8),uly+(size_/4)));
+	
+	drawcount_++;
+	
+	if(drawcount_ > 30){
+		deleted_ = 1;
+		return;
+	}
 }
 
 square::square(){
@@ -35,6 +65,8 @@ square::square(){
 	center_y_ = getWindowHeight()/3;
 	direction_ = 0;
 	flipped_ = 0;
+	drawcount_ = 0;
+	deleted_ = 0;
 }
 
 class FractalApp : public AppBasic {
@@ -177,13 +209,8 @@ void FractalApp::mouseDown( MouseEvent event )
 
 void FractalApp::update()
 {
-	if(square_list_[0].size_ <= 1.0) return;
-	
-	framenum += square_list_.size();
-	
-	while(framenum > 10){
+	while(square_list_.size() > 0 && square_list_[0].deleted_ == 1){
 		propogate();
-		framenum -= sqrt(sqrt(square_list_.size()));
 	}
 }
 

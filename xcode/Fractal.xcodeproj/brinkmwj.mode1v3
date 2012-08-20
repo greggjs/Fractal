@@ -216,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>F0E9351015E282D5000686AA</string>
+						<string>F0E9354115E29C94000686AA</string>
 						<key>history</key>
 						<array>
 							<string>F0FAF64C15E1D0690063BD8F</string>
@@ -235,7 +235,7 @@
 				<key>PBXModuleWindowStatusBarHidden2</key>
 				<false/>
 				<key>RubberWindowFrame</key>
-				<string>15 56 1089 822 0 0 1440 878 </string>
+				<string>175 56 1089 822 0 0 1440 878 </string>
 			</dict>
 		</dict>
 	</array>
@@ -366,10 +366,10 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>F0E9350F15E282D5000686AA</string>
+										<string>F0E9354015E29C94000686AA</string>
 										<key>history</key>
 										<array>
-											<string>F0FAF64B15E1D0690063BD8F</string>
+											<string>F0E9351915E29824000686AA</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -567,7 +567,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>F0E9351115E282D5000686AA</string>
 		<string>F0E934ED15E28091000686AA</string>
 		<string>F0E934EE15E28091000686AA</string>
 		<string>1C78EAAD065D492600B07095</string>
@@ -598,7 +597,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>FractalApp.cpp</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -615,6 +614,8 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
