@@ -1,0 +1,177 @@
+<Project id="1" editRate="30/1" version="2.0" >
+ <Author></Author>
+ <Comment></Comment>
+ <System></System>
+ <SourceBin id="2"  >
+   <Source id="3" src="screen.mov" lastMod="20120820T014520" rect="(0,0,1440,900)" >
+     <SourceTrack range="(0,24060)" type="0" editRate="600/1" trackRect="(0,0,1440,900)" sampleRate="0/1" bitDepth="0" numChannels="0" filename="" metaData="" />
+   </Source>
+ </SourceBin>
+ <Timeline id="4"  >
+   <VisualMixer id="5"  >
+    <Parameters>
+    </Parameters>
+    <Attributes>
+    </Attributes>
+    <Tracks>
+     <VisualTrack id="6"  >
+      <Parameters>
+      </Parameters>
+      <Attributes>
+       <Attribute id="7" value="" name="ident"/>
+      </Attributes>
+      <Medias>
+       <VMFile id="8" start="0" duration="1203" scalar="1/1" mediaStart="0/1" mediaDuration="1203/1" trackNumber="0" src="3" >
+        <Transformer>
+         <VectorParam id="9"  name="translation">
+          <InterpolatingParam id="10" interp="linr" value="0"  />
+          <InterpolatingParam id="11" interp="linr" value="0"  />
+          <InterpolatingParam id="12" interp="linr" value="0"  />
+         </VectorParam>
+         <VectorParam id="13"  name="rotation">
+          <InterpolatingParam id="14" interp="linr" value="0"  />
+          <InterpolatingParam id="15" interp="linr" value="0"  />
+          <InterpolatingParam id="16" interp="linr" value="0"  />
+         </VectorParam>
+         <VectorParam id="17"  name="shear">
+          <InterpolatingParam id="18" interp="linr" value="0"  />
+          <InterpolatingParam id="19" interp="linr" value="0"  />
+          <InterpolatingParam id="20" interp="linr" value="0"  />
+         </VectorParam>
+         <VectorParam id="21"  name="scale">
+          <InterpolatingParam id="22" interp="linr" value="1"  />
+          <InterpolatingParam id="23" interp="linr" value="1"  />
+          <InterpolatingParam id="24" interp="linr" value="1"  />
+         </VectorParam>
+         <VectorParam id="25"  name="anchor">
+          <InterpolatingParam id="26" interp="linr" value="0"  />
+          <InterpolatingParam id="27" interp="linr" value="0"  />
+          <InterpolatingParam id="28" interp="linr" value="0"  />
+         </VectorParam>
+        </Transformer>
+        <Parameters>
+         <VectorParam id="29"  name="sourceCrop">
+          <InterpolatingParam id="30" interp="linr" value="0"  />
+          <InterpolatingParam id="31" interp="linr" value="0"  />
+          <InterpolatingParam id="32" interp="linr" value="0"  />
+          <InterpolatingParam id="33" interp="linr" value="0"  />
+         </VectorParam>
+         <VectorParam id="34"  name="geometryCrop">
+          <InterpolatingParam id="35" interp="linr" value="0"  />
+          <InterpolatingParam id="36" interp="linr" value="0"  />
+          <InterpolatingParam id="37" interp="linr" value="0"  />
+          <InterpolatingParam id="38" interp="linr" value="0"  />
+         </VectorParam>
+         <InterpolatingParam id="39" interp="linr" value="1"  name="opacity"/>
+        </Parameters>
+        <Attributes>
+         <Attribute id="40" value="" name="ident"/>
+        </Attributes>
+       </VMFile>
+      </Medias>
+      <Transformer>
+       <VectorParam id="41"  name="translation">
+        <InterpolatingParam id="42" interp="linr" value="0"  />
+        <InterpolatingParam id="43" interp="linr" value="0"  />
+        <InterpolatingParam id="44" interp="linr" value="0"  />
+       </VectorParam>
+       <VectorParam id="45"  name="rotation">
+        <InterpolatingParam id="46" interp="linr" value="0"  />
+        <InterpolatingParam id="47" interp="linr" value="0"  />
+        <InterpolatingParam id="48" interp="linr" value="0"  />
+       </VectorParam>
+       <VectorParam id="49"  name="shear">
+        <InterpolatingParam id="50" interp="linr" value="0"  />
+        <InterpolatingParam id="51" interp="linr" value="0"  />
+        <InterpolatingParam id="52" interp="linr" value="0"  />
+       </VectorParam>
+       <VectorParam id="53"  name="scale">
+        <InterpolatingParam id="54" interp="linr" value="1"  />
+        <InterpolatingParam id="55" interp="linr" value="1"  />
+        <InterpolatingParam id="56" interp="linr" value="1"  />
+       </VectorParam>
+       <VectorParam id="57"  name="anchor">
+        <InterpolatingParam id="58" interp="linr" value="0"  />
+        <InterpolatingParam id="59" interp="linr" value="0"  />
+        <InterpolatingParam id="60" interp="linr" value="0"  />
+       </VectorParam>
+      </Transformer>
+     </VisualTrack>
+    </Tracks>
+    <Transformer>
+     <VectorParam id="61"  name="translation">
+      <InterpolatingParam id="62" interp="linr" value="0"  />
+      <InterpolatingParam id="63" interp="linr" value="0"  />
+      <InterpolatingParam id="64" interp="linr" value="0"  />
+     </VectorParam>
+     <VectorParam id="65"  name="rotation">
+      <InterpolatingParam id="66" interp="linr" value="0"  />
+      <InterpolatingParam id="67" interp="linr" value="0"  />
+      <InterpolatingParam id="68" interp="linr" value="0"  />
+     </VectorParam>
+     <VectorParam id="69"  name="shear">
+      <InterpolatingParam id="70" interp="linr" value="0"  />
+      <InterpolatingParam id="71" interp="linr" value="0"  />
+      <InterpolatingParam id="72" interp="linr" value="0"  />
+     </VectorParam>
+     <VectorParam id="73"  name="scale">
+      <InterpolatingParam id="74" interp="linr" value="1"  />
+      <InterpolatingParam id="75" interp="linr" value="1"  />
+      <InterpolatingParam id="76" interp="linr" value="1"  />
+     </VectorParam>
+     <VectorParam id="77"  name="anchor">
+      <InterpolatingParam id="78" interp="linr" value="0"  />
+      <InterpolatingParam id="79" interp="linr" value="0"  />
+      <InterpolatingParam id="80" interp="linr" value="0"  />
+     </VectorParam>
+    </Transformer>
+   </VisualMixer>
+   <AudioMixer id="81"  >
+    <Attributes>
+     <Attribute id="82" value="44100" name="sampleRate"/>
+     <Attribute id="83" value="32" name="bitDepth"/>
+     <Attribute id="84" value="2" name="numChannels"/>
+    </Attributes>
+    <Tracks>
+    </Tracks>
+   </AudioMixer>
+  <Attributes>
+   <Attribute id="85" value="1440" name="width"/>
+   <Attribute id="86" value="900" name="height"/>
+   <Attribute id="87" value="(0,0,0,255)" name="backgroundColor"/>
+  </Attributes>
+  <CaptionAttributes id="88"  >
+   <Attribute id="89" value="1" name="captionsEnabled"/>
+   <Attribute id="90" value="Arial" name="captionsFontName"/>
+   <Attribute id="91" value="32" name="captionsFontSize"/>
+   <Attribute id="92" value="(0,0,0,255)" name="captionsBackgroundColor"/>
+   <Attribute id="93" value="(255,255,255,255)" name="captionsForegroundColor"/>
+   <Attribute id="94" value="en" name="lang"/>
+   <Attribute id="95" value="0" name="captionsAlignment"/>
+   <Attribute id="96" value="1" name="captionsDefaultFontSize"/>
+   <Attribute id="97" value="0.5" name="captionsOpacity"/>
+   <Attribute id="98" value="1" name="captionsBackgroundEnabled"/>
+   <Attribute id="99" value="1" name="captionsBackgroundOnlyAroundText"/>
+  </CaptionAttributes>
+  <Parameters>
+   <VectorParam id="100"  name="eyePosition">
+    <InterpolatingParam id="101" interp="linr" value="0"  />
+    <InterpolatingParam id="102" interp="linr" value="0"  />
+    <InterpolatingParam id="103" interp="linr" value="3000"  />
+   </VectorParam>
+   <VectorParam id="104"  name="eyeLookAtPosition">
+    <InterpolatingParam id="105" interp="linr" value="0"  />
+    <InterpolatingParam id="106" interp="linr" value="0"  />
+    <InterpolatingParam id="107" interp="linr" value="0"  />
+   </VectorParam>
+   <VectorParam id="108"  name="eyeUpVector">
+    <InterpolatingParam id="109" interp="linr" value="0"  />
+    <InterpolatingParam id="110" interp="linr" value="1"  />
+    <InterpolatingParam id="111" interp="linr" value="0"  />
+   </VectorParam>
+   <InterpolatingParam id="112" interp="linr" value="0"  name="fov"/>
+   <InterpolatingParam id="113" interp="linr" value="1.5"  name="nearClipDistance"/>
+   <InterpolatingParam id="114" interp="linr" value="6000"  name="farClipDistance"/>
+  </Parameters>
+ </Timeline>
+</Project>

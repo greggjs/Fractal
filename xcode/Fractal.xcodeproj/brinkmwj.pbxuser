@@ -1,0 +1,144 @@
+// !$*UTF8*$!
+{
+	00BAE6590E7ED9C10018A608 /* FractalApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1030, 2548}}";
+			sepNavSelRange = "{1100, 0}";
+			sepNavVisRange = "{33, 1181}";
+			sepNavWindowFrame = "{{15, 0}, {1089, 878}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F080621E15E0119D00108BA0 /* Fractal */;
+		activeTarget = 8D1107260486CEB800E47090 /* Fractal */;
+		codeSenseManager = F080624415E0119F00108BA0 /* Code sense */;
+		executables = (
+			F080621E15E0119D00108BA0 /* Fractal */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 367117587;
+			PBXWorkspaceStateSaveDate = 367117587;
+		};
+		perUserProjectItems = {
+			F080627515E0796B00108BA0 /* PBXTextBookmark */ = F080627515E0796B00108BA0 /* PBXTextBookmark */;
+			F0FAF5C315E1C72D0063BD8F /* XCBuildMessageTextBookmark */ = F0FAF5C315E1C72D0063BD8F /* XCBuildMessageTextBookmark */;
+			F0FAF64B15E1D0690063BD8F /* PBXTextBookmark */ = F0FAF64B15E1D0690063BD8F /* PBXTextBookmark */;
+			F0FAF64C15E1D0690063BD8F /* PBXTextBookmark */ = F0FAF64C15E1D0690063BD8F /* PBXTextBookmark */;
+		};
+		sourceControlManager = F080624315E0119F00108BA0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Fractal */ = {
+		activeExec = 0;
+		executables = (
+			F080621E15E0119D00108BA0 /* Fractal */,
+		);
+	};
+	F080621E15E0119D00108BA0 /* Fractal */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Fractal;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F080624315E0119F00108BA0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F080624415E0119F00108BA0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F080627515E0796B00108BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 86";
+		rLen = 0;
+		rLoc = 5479;
+		rType = 0;
+		vrLen = 1630;
+		vrLoc = 1183;
+	};
+	F0FAF5C315E1C72D0063BD8F /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'square_' was not declared in this scope";
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 58;
+		rType = 1;
+	};
+	F0FAF64B15E1D0690063BD8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 57";
+		rLen = 0;
+		rLoc = 1141;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 569;
+	};
+	F0FAF64C15E1D0690063BD8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 53";
+		rLen = 0;
+		rLoc = 1100;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 33;
+	};
+}
