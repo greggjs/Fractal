@@ -216,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>F0E934D915E27D8F000686AA</string>
+						<string>F0E9351015E282D5000686AA</string>
 						<key>history</key>
 						<array>
 							<string>F0FAF64C15E1D0690063BD8F</string>
@@ -366,7 +366,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>F0E934D615E27D8F000686AA</string>
+										<string>F0E9350F15E282D5000686AA</string>
 										<key>history</key>
 										<array>
 											<string>F0FAF64B15E1D0690063BD8F</string>
@@ -567,6 +567,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>F0E9351115E282D5000686AA</string>
+		<string>F0E934ED15E28091000686AA</string>
+		<string>F0E934EE15E28091000686AA</string>
+		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>F080624115E0119F00108BA0</string>
 		<string>/Users/brinkmwj/Documents/Art/Fractal/xcode/Fractal.xcodeproj</string>
 		<string>F080625515E069CC00108BA0</string>
@@ -693,8 +698,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 194}}</string>
-											<string>{{316, 0}, {378, 194}}</string>
+											<string>{{0, 0}, {316, 198}}</string>
+											<string>{{316, 0}, {378, 198}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -709,8 +714,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 194}}</string>
-											<string>{{0, 194}, {694, 187}}</string>
+											<string>{{0, 0}, {694, 198}}</string>
+											<string>{{0, 198}, {694, 183}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -736,14 +741,14 @@
 									<key>DebugVariablesTableConfiguration</key>
 									<array>
 										<string>Name</string>
-										<real>125</real>
+										<real>130</real>
 										<string>Value</string>
-										<real>90</real>
+										<real>95</real>
 										<string>Summary</string>
-										<real>138</real>
+										<real>128</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 194}}</string>
+									<string>{{316, 0}, {378, 198}}</string>
 									<key>RubberWindowFrame</key>
 									<string>349 353 694 422 0 0 1440 878 </string>
 								</dict>
@@ -771,13 +776,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>F0FAF5C615E1C72D0063BD8F</string>
+				<string>F0E934E515E28091000686AA</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>F0FAF5C715E1C72D0063BD8F</string>
-				<string>F0FAF5C815E1C72D0063BD8F</string>
-				<string>F0FAF5C915E1C72D0063BD8F</string>
-				<string>F0FAF5CA15E1C72D0063BD8F</string>
-				<string>F0FAF5CB15E1C72D0063BD8F</string>
+				<string>F0E934E615E28091000686AA</string>
+				<string>F0E934E715E28091000686AA</string>
+				<string>F0E934E815E28091000686AA</string>
+				<string>F0E934E915E28091000686AA</string>
+				<string>F0E934EA15E28091000686AA</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -939,7 +944,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>F0FAF5CC15E1C72D0063BD8F</string>
+				<string>F0E934EB15E28091000686AA</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

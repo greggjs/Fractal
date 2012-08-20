@@ -2,9 +2,9 @@
 {
 	00BAE6590E7ED9C10018A608 /* FractalApp.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1030, 2769}}";
-			sepNavSelRange = "{1100, 0}";
-			sepNavVisRange = "{0, 1216}";
+			sepNavIntBoundsRect = "{{0, 0}, {1030, 2821}}";
+			sepNavSelRange = "{407, 0}";
+			sepNavVisRange = "{0, 1132}";
 			sepNavWindowFrame = "{{15, 0}, {1089, 878}}";
 		};
 	};
@@ -46,6 +46,24 @@
 			F080627515E0796B00108BA0 = F080627515E0796B00108BA0 /* PBXTextBookmark */;
 			F0E934D615E27D8F000686AA /* PBXTextBookmark */ = F0E934D615E27D8F000686AA /* PBXTextBookmark */;
 			F0E934D915E27D8F000686AA /* PBXTextBookmark */ = F0E934D915E27D8F000686AA /* PBXTextBookmark */;
+			F0E934DF15E2802C000686AA /* PBXTextBookmark */ = F0E934DF15E2802C000686AA /* PBXTextBookmark */;
+			F0E934E015E2802C000686AA /* PBXTextBookmark */ = F0E934E015E2802C000686AA /* PBXTextBookmark */;
+			F0E934E315E28091000686AA /* PBXTextBookmark */ = F0E934E315E28091000686AA /* PBXTextBookmark */;
+			F0E934E415E28091000686AA /* PBXTextBookmark */ = F0E934E415E28091000686AA /* PBXTextBookmark */;
+			F0E934F115E2814F000686AA /* PBXTextBookmark */ = F0E934F115E2814F000686AA /* PBXTextBookmark */;
+			F0E934F215E2814F000686AA /* PBXTextBookmark */ = F0E934F215E2814F000686AA /* PBXTextBookmark */;
+			F0E934F615E2818C000686AA /* PBXTextBookmark */ = F0E934F615E2818C000686AA /* PBXTextBookmark */;
+			F0E934F715E2818C000686AA /* PBXTextBookmark */ = F0E934F715E2818C000686AA /* PBXTextBookmark */;
+			F0E934FB15E28207000686AA /* PBXTextBookmark */ = F0E934FB15E28207000686AA /* PBXTextBookmark */;
+			F0E934FC15E28207000686AA /* PBXTextBookmark */ = F0E934FC15E28207000686AA /* PBXTextBookmark */;
+			F0E9350015E28225000686AA /* PBXTextBookmark */ = F0E9350015E28225000686AA /* PBXTextBookmark */;
+			F0E9350115E28225000686AA /* PBXTextBookmark */ = F0E9350115E28225000686AA /* PBXTextBookmark */;
+			F0E9350515E2826E000686AA /* PBXTextBookmark */ = F0E9350515E2826E000686AA /* PBXTextBookmark */;
+			F0E9350615E2826E000686AA /* PBXTextBookmark */ = F0E9350615E2826E000686AA /* PBXTextBookmark */;
+			F0E9350A15E282AD000686AA /* PBXTextBookmark */ = F0E9350A15E282AD000686AA /* PBXTextBookmark */;
+			F0E9350B15E282AD000686AA /* PBXTextBookmark */ = F0E9350B15E282AD000686AA /* PBXTextBookmark */;
+			F0E9350F15E282D5000686AA /* PBXTextBookmark */ = F0E9350F15E282D5000686AA /* PBXTextBookmark */;
+			F0E9351015E282D5000686AA /* PBXTextBookmark */ = F0E9351015E282D5000686AA /* PBXTextBookmark */;
 			F0FAF5C315E1C72D0063BD8F = F0FAF5C315E1C72D0063BD8F /* PBXTextBookmark */;
 			F0FAF64B15E1D0690063BD8F = F0FAF64B15E1D0690063BD8F /* PBXTextBookmark */;
 			F0FAF64C15E1D0690063BD8F = F0FAF64C15E1D0690063BD8F /* PBXTextBookmark */;
@@ -109,7 +127,7 @@
 		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
 		name = "FractalApp.cpp: 86";
 		rLen = 0;
-		rLoc = 5479;
+		rLoc = 5551;
 		rType = 0;
 		vrLen = 1630;
 		vrLoc = 1183;
@@ -119,7 +137,7 @@
 		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
 		name = "FractalApp.cpp: 57";
 		rLen = 0;
-		rLoc = 1141;
+		rLoc = 1163;
 		rType = 0;
 		vrLen = 380;
 		vrLoc = 570;
@@ -129,9 +147,189 @@
 		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
 		name = "FractalApp.cpp: 53";
 		rLen = 0;
-		rLoc = 1100;
+		rLoc = 1122;
 		rType = 0;
 		vrLen = 1216;
+		vrLoc = 0;
+	};
+	F0E934DF15E2802C000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 465;
+	};
+	F0E934E015E2802C000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 29";
+		rLen = 0;
+		rLoc = 580;
+		rType = 0;
+		vrLen = 1201;
+		vrLoc = 0;
+	};
+	F0E934E315E28091000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 465;
+	};
+	F0E934E415E28091000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 60";
+		rLen = 0;
+		rLoc = 1226;
+		rType = 0;
+		vrLen = 1660;
+		vrLoc = 678;
+	};
+	F0E934F115E2814F000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 471;
+	};
+	F0E934F215E2814F000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 22";
+		rLen = 0;
+		rLoc = 363;
+		rType = 0;
+		vrLen = 1136;
+		vrLoc = 33;
+	};
+	F0E934F615E2818C000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 427;
+	};
+	F0E934F715E2818C000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 25";
+		rLen = 0;
+		rLoc = 452;
+		rType = 0;
+		vrLen = 1130;
+		vrLoc = 33;
+	};
+	F0E934FB15E28207000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 427;
+	};
+	F0E934FC15E28207000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 184";
+		rLen = 0;
+		rLoc = 5525;
+		rType = 0;
+		vrLen = 1454;
+		vrLoc = 4276;
+	};
+	F0E9350015E28225000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 427;
+	};
+	F0E9350115E28225000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 184";
+		rLen = 0;
+		rLoc = 5546;
+		rType = 0;
+		vrLen = 1458;
+		vrLoc = 4276;
+	};
+	F0E9350515E2826E000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 427;
+	};
+	F0E9350615E2826E000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 181";
+		rLen = 0;
+		rLoc = 5426;
+		rType = 0;
+		vrLen = 1458;
+		vrLoc = 4276;
+	};
+	F0E9350A15E282AD000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 427;
+	};
+	F0E9350B15E282AD000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 25";
+		rLen = 0;
+		rLoc = 457;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 0;
+	};
+	F0E9350F15E282D5000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 59";
+		rLen = 0;
+		rLoc = 1163;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 417;
+	};
+	F0E9351015E282D5000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 23";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 1132;
 		vrLoc = 0;
 	};
 	F0FAF5C315E1C72D0063BD8F /* PBXTextBookmark */ = {
@@ -139,7 +337,7 @@
 		comments = "'square_' was not declared in this scope";
 		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
 		rLen = 1;
-		rLoc = 58;
+		rLoc = 60;
 		rType = 1;
 	};
 	F0FAF64B15E1D0690063BD8F /* PBXTextBookmark */ = {
@@ -147,7 +345,7 @@
 		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
 		name = "FractalApp.cpp: 57";
 		rLen = 0;
-		rLoc = 1141;
+		rLoc = 1163;
 		rType = 0;
 		vrLen = 381;
 		vrLoc = 569;
@@ -157,7 +355,7 @@
 		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
 		name = "FractalApp.cpp: 53";
 		rLen = 0;
-		rLoc = 1100;
+		rLoc = 1122;
 		rType = 0;
 		vrLen = 1181;
 		vrLoc = 33;

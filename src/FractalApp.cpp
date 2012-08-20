@@ -7,9 +7,9 @@ using namespace std;
 
 class square {
 public:
-	int center_x_;
-	int center_y_;
-	int size_;
+	float center_x_;
+	float center_y_;
+	float size_;
 	int direction_; //0 is up, 1 right, 2 down, 3 left;
 	int flipped_; //0 is right-side-up, 1 is up-side-down
 	
@@ -20,11 +20,13 @@ public:
 
 void square::draw(){
 	if(flipped_ == 0){
-		gl::color(Color(0.0,0.25,0.75));
+		gl::color(Color(0.0,0.55,0.75));
 	} else {
-		gl::color(Color(0.0,0.75,0.25));
+		gl::color(Color(0.0,0.75,0.55));
 	}
-	gl::drawSolidRect(Rectf(center_x_-(size_/2),center_y_-(size_/2),center_x_+(size_/2),center_y_+(size_/2)));
+	float ulx = center_x_-(size_/2);
+	float uly = center_y_-(size_/2);
+	gl::drawSolidRect(Rectf(ulx,uly,ulx+size_,uly+size_));
 }
 
 square::square(){
@@ -55,7 +57,7 @@ void FractalApp::prepareSettings( Settings *settings ){
 
 void FractalApp::propogate(){
 	square old_square = square_list_[0];
-	if(old_square.size_ <= 2) return;
+	if(old_square.size_ <= 1) return;
 	
 	square_list_.pop_front();
 	
@@ -175,11 +177,13 @@ void FractalApp::mouseDown( MouseEvent event )
 
 void FractalApp::update()
 {
+	if(square_list_[0].size_ <= 1.0) return;
+	
 	framenum += square_list_.size();
 	
 	while(framenum > 10){
 		propogate();
-		framenum -= sqrt(square_list_.size());
+		framenum -= sqrt(sqrt(square_list_.size()));
 	}
 }
 
