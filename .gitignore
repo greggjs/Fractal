@@ -161,5 +161,8 @@ pip-log.txt
 # Mac crap
 .DS_Store
 
+#Camtasia video projects
+*.cmproj
+
 #Doxygen generated documents
 doxydoc

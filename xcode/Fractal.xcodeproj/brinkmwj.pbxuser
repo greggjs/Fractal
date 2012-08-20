@@ -2,9 +2,9 @@
 {
 	00BAE6590E7ED9C10018A608 /* FractalApp.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1030, 2548}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1030, 2769}}";
 			sepNavSelRange = "{1100, 0}";
-			sepNavVisRange = "{33, 1181}";
+			sepNavVisRange = "{0, 1216}";
 			sepNavWindowFrame = "{{15, 0}, {1089, 878}}";
 		};
 	};
@@ -39,14 +39,16 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 367117587;
-			PBXWorkspaceStateSaveDate = 367117587;
+			PBXPerProjectTemplateStateSaveDate = 367164811;
+			PBXWorkspaceStateSaveDate = 367164811;
 		};
 		perUserProjectItems = {
-			F080627515E0796B00108BA0 /* PBXTextBookmark */ = F080627515E0796B00108BA0 /* PBXTextBookmark */;
-			F0FAF5C315E1C72D0063BD8F /* XCBuildMessageTextBookmark */ = F0FAF5C315E1C72D0063BD8F /* XCBuildMessageTextBookmark */;
-			F0FAF64B15E1D0690063BD8F /* PBXTextBookmark */ = F0FAF64B15E1D0690063BD8F /* PBXTextBookmark */;
-			F0FAF64C15E1D0690063BD8F /* PBXTextBookmark */ = F0FAF64C15E1D0690063BD8F /* PBXTextBookmark */;
+			F080627515E0796B00108BA0 = F080627515E0796B00108BA0 /* PBXTextBookmark */;
+			F0E934D615E27D8F000686AA /* PBXTextBookmark */ = F0E934D615E27D8F000686AA /* PBXTextBookmark */;
+			F0E934D915E27D8F000686AA /* PBXTextBookmark */ = F0E934D915E27D8F000686AA /* PBXTextBookmark */;
+			F0FAF5C315E1C72D0063BD8F = F0FAF5C315E1C72D0063BD8F /* PBXTextBookmark */;
+			F0FAF64B15E1D0690063BD8F = F0FAF64B15E1D0690063BD8F /* PBXTextBookmark */;
+			F0FAF64C15E1D0690063BD8F = F0FAF64C15E1D0690063BD8F /* PBXTextBookmark */;
 		};
 		sourceControlManager = F080624315E0119F00108BA0 /* Source Control */;
 		userBuildSettings = {
@@ -112,11 +114,30 @@
 		vrLen = 1630;
 		vrLoc = 1183;
 	};
-	F0FAF5C315E1C72D0063BD8F /* XCBuildMessageTextBookmark */ = {
+	F0E934D615E27D8F000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 57";
+		rLen = 0;
+		rLoc = 1141;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 570;
+	};
+	F0E934D915E27D8F000686AA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
+		name = "FractalApp.cpp: 53";
+		rLen = 0;
+		rLoc = 1100;
+		rType = 0;
+		vrLen = 1216;
+		vrLoc = 0;
+	};
+	F0FAF5C315E1C72D0063BD8F /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		comments = "'square_' was not declared in this scope";
 		fRef = 00BAE6590E7ED9C10018A608 /* FractalApp.cpp */;
-		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
 		rLoc = 58;
 		rType = 1;

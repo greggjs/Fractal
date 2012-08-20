@@ -216,10 +216,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>F0FAF64C15E1D0690063BD8F</string>
+						<string>F0E934D915E27D8F000686AA</string>
 						<key>history</key>
 						<array>
-							<string>F080627515E0796B00108BA0</string>
+							<string>F0FAF64C15E1D0690063BD8F</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -366,10 +366,10 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>F0FAF64B15E1D0690063BD8F</string>
+										<string>F0E934D615E27D8F000686AA</string>
 										<key>history</key>
 										<array>
-											<string>F0FAF5C315E1C72D0063BD8F</string>
+											<string>F0FAF64B15E1D0690063BD8F</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -381,14 +381,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {580, 269}}</string>
+								<string>{{0, 0}, {580, 260}}</string>
 								<key>RubberWindowFrame</key>
 								<string>296 365 788 504 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>269pt</string>
+							<string>260pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -401,14 +401,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 274}, {580, 189}}</string>
+								<string>{{0, 265}, {580, 198}}</string>
 								<key>RubberWindowFrame</key>
 								<string>296 365 788 504 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>189pt</string>
+							<string>198pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -427,9 +427,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>F0FAF5B815E1C5150063BD8F</string>
+				<string>F0E934D715E27D8F000686AA</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>F0FAF5B915E1C5150063BD8F</string>
+				<string>F0E934D815E27D8F000686AA</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -567,10 +567,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>F0FAF5CE15E1C72D0063BD8F</string>
-		<string>F0FAF5CF15E1C72D0063BD8F</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>F080624115E0119F00108BA0</string>
 		<string>/Users/brinkmwj/Documents/Art/Fractal/xcode/Fractal.xcodeproj</string>
 		<string>F080625515E069CC00108BA0</string>
@@ -592,14 +588,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>FractalApp.cpp</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -655,7 +649,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>F080624115E0119F00108BA0</string>
-				<string>F0FAF5BB15E1C5150063BD8F</string>
+				<string>F0E934DA15E27D8F000686AA</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
